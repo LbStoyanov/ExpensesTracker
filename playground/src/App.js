@@ -5,7 +5,7 @@ function App() {
 
   const expense = [
     {title: "Kaima", amount: 304.16, date: new Date(2022, 6, 2) },
-    { title: "Kaima", amount: 304.16, date: new Date(2022, 6, 2) },
+    { title: "Koto ima", amount: 304.16, date: new Date(2022, 6, 2) },
     { title: "Krastavici", amount: 454.16, date: new Date(2022, 6, 2) },
     { title: "Sirenie", amount: 954.16, date: new Date(2022, 6, 2) },
   ];
