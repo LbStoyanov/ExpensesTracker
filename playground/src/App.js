@@ -11,7 +11,7 @@ function App() {
     {id: 'e2', title: 'New TV',amount: 1432.49,date: new Date(2022, 6, 6)},
     {
       id: 'e3',
-      title: 'Koto IMA',
+      title: 'Koto IMA,Towa',
       amount: 1550.13,
       date: new Date(2022, 6, 6),
     },
