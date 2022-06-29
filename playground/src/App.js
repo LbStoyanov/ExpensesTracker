@@ -17,7 +17,7 @@ function App() {
     },
     {
       id: 'e4',
-      title: 'SIRISHTE',
+      title: 'BONIBONI',
       amount: 150.13,
       date: new Date(2022, 6, 6),
     },
@@ -25,7 +25,7 @@ function App() {
 
   return(
     <div>
-      <h2>Aide Bace Pepi s nojleto</h2>
+      <h2>Que comiense la fiesta!</h2>
       <Expenses items={expenses} />
     </div>
   );
